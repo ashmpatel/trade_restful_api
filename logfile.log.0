@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-12T21:05:45.661249200Z</date>
+  <millis>1689195945661</millis>
+  <nanos>249200</nanos>
+  <sequence>0</sequence>
+  <logger>org.apache.catalina.core.StandardService</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardService</class>
+  <method>startInternal</method>
+  <thread>27</thread>
+  <message>Starting service [Tomcat]</message>
+</record>
+<record>
+  <date>2023-07-12T21:05:45.668740300Z</date>
+  <millis>1689195945668</millis>
+  <nanos>740300</nanos>
+  <sequence>1</sequence>
+  <logger>org.apache.catalina.core.StandardEngine</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.StandardEngine</class>
+  <method>startInternal</method>
+  <thread>27</thread>
+  <message>Starting Servlet engine: [Apache Tomcat/10.1.1]</message>
+</record>
+<record>
+  <date>2023-07-12T21:05:45.754825400Z</date>
+  <millis>1689195945754</millis>
+  <nanos>825400</nanos>
+  <sequence>2</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>27</thread>
+  <message>Initializing Spring embedded WebApplicationContext</message>
+</record>
+<record>
+  <date>2023-07-12T21:05:52.096574400Z</date>
+  <millis>1689195952096</millis>
+  <nanos>574400</nanos>
+  <sequence>3</sequence>
+  <logger>org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]</logger>
+  <level>INFO</level>
+  <class>org.apache.catalina.core.ApplicationContext</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>Initializing Spring DispatcherServlet 'dispatcherServlet'</message>
+</record>
+</log>
