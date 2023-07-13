@@ -1,7 +1,7 @@
 # Trade Upload And Processing Using Spring and CSV files
 
 This project is for tutorial purposes.<br />
-
+This project does Not use Spring Flux ( the other one on this repo does), reads CSV files using simple BufferedReader(the other repo on here uses memory mapped files for a lot less GC and more speed. Yes, I timed it.)
 <h2>Description & Feature</h2>
 <ul>
   <li>Implements a simple Trade File Upload processing and lookup in a product map</li>
