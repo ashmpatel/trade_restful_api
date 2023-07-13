@@ -1,4 +1,4 @@
-# Trade Upload And Processing Using A Reactive framework and Memory Mapped processing
+# Trade Upload And Processing Using Spring and CSV files
 
 This project is for tutorial purposes.<br />
 
